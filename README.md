@@ -1,2 +1,1 @@
-# my-first-repo
-This is my first GitHub repository.
+Hi, I'm Thakshila Madhushan, an undergraduate in BHSc (Hons) Health Information & Communication Technology. I’m interested in full-stack development, electronics, and creative tech projects that combine hardware and software innovation. I also run a YouTube channel, "Code & Current", where I share DIY electronics and programming tutorials, and I enjoy nature photography as a hobby. I’m always eager to learn, build, and explore new ideas that make technology more engaging and useful.
